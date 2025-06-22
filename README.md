@@ -5,9 +5,6 @@ Manage your daily tasks: add, delete, and move them up — all in a modern and m
 
 ---
 
-## 🔗 Live Demo
-
-👉 http://localhost:5173/
 
 ---
 
