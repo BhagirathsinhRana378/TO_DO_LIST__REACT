@@ -7,7 +7,7 @@ Manage your daily tasks: add, delete, and move them up — all in a modern and m
 
 ## 🔗 Live Demo
 
-👉 [Click here to view the live app](https://BhagirathsinhRana378.github.io/To_Do_List__REACT/)
+👉 http://localhost:5173/
 
 ---
 
